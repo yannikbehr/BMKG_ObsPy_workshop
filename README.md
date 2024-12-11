@@ -7,7 +7,7 @@ Once you have a colab account, clicking the links below will open an interactive
 
 | Notebook | Solution |
 |----------|----------|
-|[File Formats](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/01_Introduction.ipynb)||
+|[Introduction](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/01_Introduction.ipynb)||
 |[Date-Time](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/02_UTCDateTime.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/02_UTCDateTime_solution.ipynb)|
 |[Waveform Data](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/03_waveform_data.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/03_waveform_data_solution.ipynb)|
 |[Station Metadata](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/04_Station_metainformation.ipynb)||

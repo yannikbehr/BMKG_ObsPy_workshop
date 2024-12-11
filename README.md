@@ -7,11 +7,10 @@ Once you have a colab account, clicking the links below will open an interactive
 
 | Notebook | Solution |
 |----------|----------|
-|[Introduction](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/00_Introduction.ipynb)||
-|[File Formats](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/01_File_Formats.ipynb)||
+|[File Formats](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/01_Introduction.ipynb)||
 |[Date-Time](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/02_UTCDateTime.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/02_UTCDateTime_solution.ipynb)|
 |[Waveform Data](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/03_waveform_data.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/03_waveform_data_solution.ipynb)|
 |[Station Metadata](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/04_Station_metainformation.ipynb)||
-|[Event Metadata](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/05_Event_metadata.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/05_Event_metadata_solution.ipynb)|
+|[Event Metadata](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/05_Event_metadata.ipynb)||
 |[FDSN](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/06_FDSN.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/06_FDSN_solution.ipynb)|
 |[Basic Processing Exercise](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/07_Basic_Processing_Exercise.ipynb)|[Solution](https://colab.research.google.com/github/yannikbehr/BMKG_OBSPY_WORKSHOP/blob/main/07_Basic_Processing_Exercise.ipynb)|
